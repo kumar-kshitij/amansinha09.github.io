@@ -14,8 +14,8 @@ I am interested in the research areas of Deep Learning, Natural Language Underst
 
 Internships
 ======
-* __Summer 2019__, Research Intern, IBM India Research Lab. Mentor: [Parag Jain](http://parajain.github.io) and [Priyanka Agarwal](https://sites.google.com/site/priyankaagr17/)
-* __Summer 2018__, Research Intern, LTRC, IIIT Hyderabad. Mentor: [Prof. Radhika Mamidi](https://sites.google.com/site/radhika41/home?authuser=0)
+* __Summer 2019__, Research Intern, IBM India Research Lab. Mentor: [Parag Jain](http://parajain.github.io) and [Priyanka Agarwal](https://sites.google.com/site/priyankaagr17/).
+* __Summer 2018__, Research Intern, LTRC, IIIT Hyderabad. Mentor: [Prof. Radhika Mamidi](https://sites.google.com/site/radhika41/home?authuser=0).
 
 
 News
