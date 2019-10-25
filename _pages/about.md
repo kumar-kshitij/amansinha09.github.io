@@ -20,6 +20,6 @@ Internships
 
 News
 ======
-* __Sinha Aman__, Patekar Parth, Mamidi Radhika, _Unsupervised Approach for Monitoring Satire on Social Media_, Accepted at 11th meeting of Forum for Information Retrieval Evaluation 2019.
+* One paper accepted at [FIRE 2019](http://fire.irsi.res.in/fire/2019/home).
 
 
