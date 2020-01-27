@@ -16,13 +16,17 @@ Education
 
 Work experience
 ======
-* Summer 2019: Research Instern
+* Summer 2019: Research Intern
   * IBM India Research Lab, Bangalore, India
   * Supervisor: Parag Jain and Priyanka Agrawal
 
 * Summer 2018: Research Intern
   * Language Technologies Research Centre (LTRC), IIIT Hyderabad, India 
-  * Supervisor: Professor Radhika Mamidi
+  * Supervisor: Dr. Radhika Mamidi
+  
+* Autumn 2017: Data Analyst Intern
+  * Gofind.ai, San Francisco, LA 
+  * Supervisor: Manindra Majumdar (CEO, Fitroom Inc.)
   
 * Summer 2017: Data Science Intern
   * Oriserve, Mumbai, India 
