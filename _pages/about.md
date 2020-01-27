@@ -20,7 +20,7 @@ Internships
 
 News
 ======
-* I will be joining as research intern position at ICEL Laboratory, University of Lorraine, Nancy, France from February 2020.
+* I will be joining as research intern at ICEL Laboratory, University of Lorraine, Nancy, France from February 2020.
 * One paper accepted at [FIRE 2019](http://fire.irsi.res.in/fire/2019/home).
 
 
