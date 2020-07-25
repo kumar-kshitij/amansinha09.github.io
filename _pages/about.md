@@ -13,7 +13,7 @@ I am graduate student with Integrated M.Tech. Degree in Mathematics and Computin
 I am interested in the research areas of Deep Learning, Natural Language Understanding, and various cross domains applications.
 
 I am currently working on Information Retrieval using Graph Representation Learning for Linguistic Networks at [IECL 
-Laboratory](http://www.iecl.univ-lorraine.fr/) and [ATILF](http://atilf.atilf.fr/) as a Research Intern under the supervision of [Prof. Marianne Cluasel](https://sites.google.com/site/marianneclausel/) and [Prof. Mathieu Constant](https://perso.atilf.fr/mconstant/).
+Laboratory](http://www.iecl.univ-lorraine.fr/) and [ATILF](http://atilf.atilf.fr/) as a Research Intern under the supervision of [Prof. Marianne Clausel](https://sites.google.com/site/marianneclausel/) and [Prof. Mathieu Constant](https://perso.atilf.fr/mconstant/).
 
 Internships
 ======
