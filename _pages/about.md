@@ -8,9 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am senior year Integrated Master student at the Indian Institute of Technology, Dhanbad in the Department of Mathematics and Computing, under supervision of [Prof. Badam Singh Kushvah](https://www.iitism.ac.in/~bskush/).
+I am graduate student with Integrated M.Tech. Degree in Mathematics and Computing from the Indian Institute of Technology, Dhanbad. My academic mentor was [Dr. Badam Singh Kushvah](https://www.iitism.ac.in/~bskush/). I did my Master Thesis in Multimodal Emotion Prediction under the supervision of [Dr. Ashutosh Modi](https://ashutosh-modi.github.io/), Assistant Professor, CSE Department, IIT Kanpur.
 
 I am interested in the research areas of Deep Learning, Natural Language Understanding, and various cross domains applications.
+
+I am currently working on Information Retrieval using Graph Representation Learning for Linguistic Networks at [IECL 
+Laboratory](http://www.iecl.univ-lorraine.fr/) and [ATILF](http://atilf.atilf.fr/) as a Research Intern under the supervision of [Prof. Marianne Cluasel](https://sites.google.com/site/marianneclausel/) and [Prof. Mathieu Constant](https://perso.atilf.fr/mconstant/).
 
 Internships
 ======
@@ -21,7 +24,7 @@ Internships
 News
 ======
 * New! Our paper "C-Net: Contextual Network for Sarcasm Detection" at FigLang 2020.
-* I will be joining as research intern at IECL Laboratory, University of Lorraine, Nancy, France from February 2020.
-* One paper accepted at [FIRE 2019](http://fire.irsi.res.in/fire/2019/home).
-
+<!-- * I will be joining as research intern at IECL Laboratory, University of Lorraine, Nancy, France from February 2020.
+ * One paper accepted at [FIRE 2019](http://fire.irsi.res.in/fire/2019/home).
+-->
 
