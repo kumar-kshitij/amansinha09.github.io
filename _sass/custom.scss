@@ -1,0 +1,146 @@
+.publication_card {
+    margin: 10px;
+    padding: 5px;
+    border: 1px solid #eee;
+    transition: box-shadow 0.2s ease 0s;
+
+    &:hover {
+        box-shadow: 0 8px 8px rgba(0,0,0,0.1);
+    }
+
+    .body {
+        display: flex;
+
+        .thumbnail {
+            width: 25%;
+
+            @media (min-width: 768px) {
+                width: 20%;
+            }
+
+            img {
+                width: 100%;
+            }
+        }
+
+        .content {
+            flex-grow: 1;
+            padding: 0 5px;
+            display: flex;
+            flex-flow: column;
+
+            .title {
+                padding: 2.5px 10px;
+                background-color: #eee;
+                font-weight: bold;
+            }
+
+            .authors {
+                padding: 2.5px 10px;
+                flex-grow: 1;
+                font-size: 16px;
+            }
+
+            .footer {
+                padding: 2.5px 10px;
+                display: flex;
+                border-top: 1px solid #eee;
+                font-size: 16px;
+
+                .links {
+                    a {
+                        margin-right: 10px;
+                    }
+                }
+
+                .conf_name {
+                    flex-grow: 1;
+                    text-align: right;
+                }
+            }
+        }
+    }
+}
+
+.blog_card {
+    margin: 10px;
+    padding: 5px;
+    border: 1px solid #eee;
+    transition: box-shadow 0.2s ease 0s;
+
+    &:hover {
+        box-shadow: 0 8px 8px rgba(0,0,0,0.1);
+    }
+
+    .title {
+        font-size: 24px;
+        font-weight: bold;
+        padding: 0 10px;
+
+        @media (min-width: 576px) {
+            font-size: 28px;
+        }
+    }
+
+    .body {
+        display: flex;
+        flex-wrap: wrap;
+        padding: 10px;
+
+        .thumbnail {
+            width: 100%;
+            order: 1;
+
+            @media (min-width: 576px) {
+                width: 25%;
+                order: 2;
+            }
+
+            img {
+                width: 100%;
+            }
+        }
+
+        .description {
+            width: 100%;
+            order: 2;
+            padding-top: 10px;
+            font-size: 16px;
+
+            @media (min-width: 576px) {
+                width: 75%;
+                order: 1;
+                padding-top: 0;
+                padding-right: 20px;
+            }
+        }
+    }
+
+    .footer {
+        padding: 2.5px 10px;
+        display: flex;
+        font-size: 16px;
+
+        .links {
+            a {
+                display: inline-block;
+                margin-right: 10px;
+                padding: 2.5px 10px;
+                color: black;
+                text-decoration: none;
+                background-color: #ecf2dc;
+                transition: background-color 0.2s ease 0s;
+
+                &:hover {
+                    background-color: #bdcb9c;
+                }
+            }
+        }
+
+        .date {
+            flex-grow: 1;
+            text-align: right;
+        }
+    }
+
+}
